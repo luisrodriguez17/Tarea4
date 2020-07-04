@@ -13,14 +13,20 @@ Nota: El código se encuentra buen comentado y se explica a sí mismo.
  
   <img src="../master/SeñalAntesDelRuido.png" width="400"> 
   
+  
   <img src="../master/SeñalRuido-2.png" width="400"> 
-  
-  <img src="../master/SeñalRuido-1.png" width="400"> 
-  
+  <img src="../master/Ruido-2.png" width="400"> 
+  <img src="../master/SeñalRuido-1.png" width="400">
+  <img src="../master/Ruido-1.png" width="400">  
   <img src="../master/SeñalRuido0.png" width="400"> 
+  <img src="../master/Ruido0.png" width="400">
   <img src="../master/SeñalRuido1.png" width="400"> 
+  <img src="../master/Ruido1.png" width="400">
   <img src="../master/SeñalRuido2.png" width="400"> 
+  <img src="../master/Ruido2.png" width="400">
   <img src="../master/SeñalRuido3.png" width="400"> 
+  <img src="../master/Ruido3.png" width="400">
+  
   ### 5: Se demodula y decodifica la señal
   El conteo de tasa de error de bits BER fue 0 constantemente, para cada nivel de SNR.
   ### 6: Gráfica de BER vs SNR
